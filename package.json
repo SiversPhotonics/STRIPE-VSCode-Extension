@@ -1,0 +1,23 @@
+{
+    "name": "stripe-extension-pack",
+    "displayName": "STRIPE Extension Pack",
+    "description": "A collection of essential STRIPE extensions.",
+    "repository": "https://github.com/SiversPhotonics/STRIPE-VSCode-Extension",
+    "version": "0.0.1",
+    "publisher": "SiversPhotonics",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "ruff.vscode-ruff",
+        "mypy.mypy",
+        "mhutchie.git-graph",
+        "ms-python.pylance",
+        "GitHub.vscode-pull-request-github",
+        "ms-vscode.vscode-github-actions"
+    ]
+}
